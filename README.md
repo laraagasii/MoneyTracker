@@ -54,9 +54,8 @@ This project follows the **MVVM (Model-View-ViewModel)** architectural pattern t
 
 | Home Screen | Report Analysis | Add Transaction | Dark Mode |
 |:---:|:---:|:---:|:---:|
-| *(Upload screenshot here)* | *(Upload screenshot here)* | *(Upload screenshot here)* | *(Upload screenshot here)* |
+| *![Home](screenshots/home.png)* | *![Report](screenshots/report.png)* | *![Add Transaction](screenshots/addTransaksi.png)* | *![Dark Mode](screenshots/profil-darkMode.png)* |
 
-> *Note: Screenshots demonstrate the UI flow and Feature implementation.*
 
 ---
 
@@ -94,7 +93,7 @@ This application implements a **Hybrid Storage Approach** to optimize performanc
 
 **Lara Agasii**
 * **Role:** Mobile Application Developer
-* **LinkedIn:** [Your LinkedIn Profile URL Here]
+* **LinkedIn:** www.linkedin.com/in/hanifahlaramaagasi
 * **University:** Universitas Andalas
 
 ---
