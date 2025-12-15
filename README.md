@@ -91,7 +91,7 @@ This application implements a **Hybrid Storage Approach** to optimize performanc
 
 ## 👤 Author
 
-**Lara Agasii**
+**Hanifah Larama Agasi**
 * **Role:** Mobile Application Developer
 * **LinkedIn:** www.linkedin.com/in/hanifahlaramaagasi
 * **University:** Universitas Andalas
